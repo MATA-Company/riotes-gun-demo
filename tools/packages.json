@@ -1,0 +1,19 @@
+[
+  { "url": "https://raw.githubusercontent.com/Sleitnick/RbxUtil/master/modules/signal/init.luau", "out": "Signal/init.luau" },
+  { "url": "https://raw.githubusercontent.com/Sleitnick/RbxUtil/master/modules/trove/init.luau", "out": "Trove/init.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/init.luau", "out": "FastCast2/init.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/TypeDefinitions.luau", "out": "FastCast2/TypeDefinitions.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/BaseCastSerial.luau", "out": "FastCast2/BaseCastSerial.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/BaseCastParallel.luau", "out": "FastCast2/BaseCastParallel.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/SerialSimulation.luau", "out": "FastCast2/SerialSimulation.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/ParallelSimulation.luau", "out": "FastCast2/ParallelSimulation.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/ActiveCast.luau", "out": "FastCast2/ActiveCast.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/ObjectCache.luau", "out": "FastCast2/ObjectCache.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/Motor6DCache.luau", "out": "FastCast2/Motor6DCache.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/Config.luau", "out": "FastCast2/Config.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/DefaultConfigs.luau", "out": "FastCast2/DefaultConfigs.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/FastCastEnums.luau", "out": "FastCast2/FastCastEnums.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/FastCastVMs/init.luau", "out": "FastCast2/FastCastVMs/init.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/FastCastVMs/ServerVM.server.luau", "out": "FastCast2/FastCastVMs/ServerVM.server.luau" },
+  { "url": "https://raw.githubusercontent.com/weenachuangkud/FastCast2/main/src/FastCastVMs/ClientVM.client.luau", "out": "FastCast2/FastCastVMs/ClientVM.client.luau" }
+]

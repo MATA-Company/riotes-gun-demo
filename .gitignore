@@ -1,0 +1,12 @@
+# place files and local artifacts — this repo is code only
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+docs/
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db

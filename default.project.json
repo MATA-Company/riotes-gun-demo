@@ -1,0 +1,16 @@
+{
+  "name": "riotes-gun-demo",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": { "$path": "packages" },
+      "Shared": { "$path": "src/shared" }
+    },
+    "ServerScriptService": { "$path": "src/server" },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": { "$path": "src/client" }
+    }
+  }
+}
