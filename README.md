@@ -119,12 +119,6 @@ sequenceDiagram
 - **feel**: camera kick, bob, view model and audio are client side, so they land on the same frame as the input
 - **multiplayer**: body hiding, accessory hiding and the view model all use client-only techniques (`LocalTransparencyModifier`, local clones), so other players always see a normal character
 
-## running it
-
-1. `rojo serve default.project.json --port 34872`
-2. open the place, connect the rojo plugin
-3. play. `v` toggles first / third person, `f2` opens the view model tuning panel
-
 ## config
 
 every gun resolves its settings in three layers:
