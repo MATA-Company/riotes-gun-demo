@@ -2,7 +2,7 @@
 
 a gun system demo built for riotes. pure luau, synced with rojo.
 
-this repo is shared for review only — it is not licensed for use. see [LICENSE](LICENSE).
+this repo is shared for review only, pls read because it is not licensed for use. see [LICENSE](LICENSE).
 
 server owns the guns (ammo, fire rate, hits). the client owns the feel (view model, ads, recoil, bob, camera).
 the two weapons themselves live inside the place under `StarterPack` — this repo is the code that drives them.
